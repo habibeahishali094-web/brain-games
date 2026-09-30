@@ -1,0 +1,24 @@
+# Node modules (her yerde)
+node_modules/
+**/node_modules/
+
+# Build çıktısı
+frontend/dist/
+
+# Veritabanı
+backend/database.sqlite
+
+# Env dosyaları
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store

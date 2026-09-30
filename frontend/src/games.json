@@ -1,0 +1,82 @@
+[
+  {
+    "id": "memory",
+    "title": "Hafıza Kartları",
+    "category": "Hafıza",
+    "description": "Aynı olan kartları eşleştir. Hafızanı test et!",
+    "icon": "Brain",
+    "color": "#b4a8f9"
+  },
+  {
+    "id": "reaction",
+    "title": "Reaksiyon Testi",
+    "category": "Hız",
+    "description": "Renk kırmızıdan yeşile döndüğünde en hızlı şekilde tıkla.",
+    "icon": "Zap",
+    "color": "#fca5a5"
+  },
+  {
+    "id": "simon",
+    "title": "Sayı Dizisi",
+    "category": "Dikkat",
+    "description": "Gösterilen sayı dizisini aklında tut ve tekrarla.",
+    "icon": "Hash",
+    "color": "#93c5fd"
+  },
+  {
+    "id": "timeline",
+    "title": "Ters Zaman",
+    "category": "Mantık",
+    "description": "Karışık olayları doğru zaman sırasına göre diz.",
+    "icon": "Clock",
+    "color": "#86efac"
+  },
+  {
+    "id": "shadowcity",
+    "title": "Gölgeler Şehri",
+    "category": "Dikkat",
+    "description": "Şehir silüetindeki değişen binayı bul.",
+    "icon": "Building",
+    "color": "#fdba74"
+  },
+  {
+    "id": "maze",
+    "title": "Labirent Avcısı",
+    "category": "Hız",
+    "description": "Noktaları topla, avcılardan kaç!",
+    "icon": "Crosshair",
+    "color": "#fde047"
+  },
+  {
+    "id": "numberchain",
+    "title": "Sayı Zinciri",
+    "category": "Hafıza",
+    "description": "Ekranda kısa süreliğine gösterilen işlem zincirini zihninizde hesaplayın.",
+    "icon": "Calculator",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": "patternbreaker",
+    "title": "Örüntü Kırıcı",
+    "category": "Mantık",
+    "description": "Şekil ve renk dizisindeki mantığı çözerek bir sonraki öğeyi tahmin edin.",
+    "icon": "Puzzle",
+    "color": "#67e8f9"
+  },
+  {
+    "id": "colortherapy",
+    "title": "Renk Terapisi",
+    "category": "Dikkat",
+    "description": "Yavaşça değişen renklerin hedef renge ulaştığı anı yakalayın.",
+    "icon": "Palette",
+    "color": "#fdba74"
+  },
+  {
+    "id": "breathing",
+    "title": "Nefes Ritmi",
+    "category": "Dikkat",
+    "description": "Dairenin büyüme ve küçülme ritmine odaklanarak senkronize olun.",
+    "icon": "Wind",
+    "color": "#86efac"
+  }
+]
